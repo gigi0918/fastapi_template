@@ -1,7 +1,5 @@
-logfile/*
-logfile/*/*
-!logfile/logs/.ignoreme
-!logfile/logging.conf
+logfile/logs/*
+!logfile/logs/ignoreme
 .DS_Store
 */__pycache__/*
 __pycache__/*
