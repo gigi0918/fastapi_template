@@ -1,0 +1,9 @@
+logfile/*
+logfile/*/*
+!logfile/logs/.ignoreme
+!logfile/logging.conf
+.DS_Store
+*/__pycache__/*
+__pycache__/*
+test.py
+venv/
